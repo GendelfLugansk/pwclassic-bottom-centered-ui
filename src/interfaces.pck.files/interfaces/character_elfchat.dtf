@@ -1,0 +1,20 @@
+DIALOG "Win_ELF" 0 0 227 110 0 1 10 "" "" "" 0 0 -1 -1 "" 0 0 255 255 255 1 1
+IMAGEPICTURE "Control_435925285" "" "" 65 6 162 73 1 0 "小精灵新加tga\小精灵面板\宠物面板-1血槽.tga"
+IMAGEPICTURE "Skill_1" "" "" 91 43 32 32 1 0 "Window\图标_武器1.dds"
+IMAGEPICTURE "Skill_2" "" "" 124 43 32 32 1 0 "Window\图标_武器2.dds"
+IMAGEPICTURE "Skill_3" "" "" 157 43 32 32 1 0 "Window\图标_武器1.dds"
+IMAGEPICTURE "Skill_4" "" "" 190 43 32 32 1 0 "Window\图标_武器2.dds"
+IMAGEPICTURE "Skill_5" "" "" 91 78 32 32 1 0 "妙计锦囊.dds"
+IMAGEPICTURE "Skill_6" "" "" 124 78 32 32 1 0 "妙计锦囊.dds"
+IMAGEPICTURE "Skill_7" "" "" 158 78 32 32 1 0 "妙计锦囊.dds"
+IMAGEPICTURE "Skill_8" "" "" 191 78 32 32 1 0 "妙计锦囊.dds"
+PROGRESS "Progress_Energy" "" "" 72 16 145 8 "Progress\进度条_背景1.bmp" "Progress\进度条_黄2.bmp" 0 0 0 0
+PROGRESS "Progress_Power" "" "" 73 28 143 10 "Progress\进度条_背景2.bmp" "Progress\进度条_兰2.bmp" 0 0 0 0
+LABEL "ELF_Name" "" "" 9 70 66 16 2 12 3 255 203 74 255
+IMAGEPICTURE "Img_Elf" "" "" 16 12 48 48 1 0 "Window\图标_裤子m.dds"
+IMAGEPICTURE "Control_509669064" "" "" 2 65 80 26 1 0 "小精灵新加tga\小精灵面板\精灵名字按钮-1.tga"
+LABEL "Lab_Energy" "" "" 117 11 0 0 4 15 5 255 255 255 255
+LABEL "Lab_Power" "" "" 86 25 0 0 6 15 7 255 255 255 255
+IMAGEPICTURE "Img_Active" "" "" 2 2 68 69 4 0 "小精灵新加tga\精灵闪光头像.tga"
+STILLIMAGEBUTTON "Btn_Power" "activation" "" -4000 -4000 21 21 0 0 0 0 8 15 255 0 255 255 "小精灵新加tga\小精灵面板\精灵按钮-2普通.tga" "小精灵新加tga\小精灵面板\精灵按钮-1高亮.tga" 9 1
+STILLIMAGEBUTTON "Btn_Zoom" "min" "" 2 5 18 18 0 0 0 0 10 15 255 255 255 255 "小精灵新加tga\ELFZOOMUP.tga" "小精灵新加tga\ELFZOOMDOWN.tga" 11 1

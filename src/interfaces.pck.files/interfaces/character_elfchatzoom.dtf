@@ -1,0 +1,5 @@
+DIALOG "Win_ELFZoom" 0 0 162 53 0 1 10 "" "" "" 0 0 -1 -1 "" 0 0 255 255 255 1 1
+LABEL "Lab_Energy" "" "" 50 11 0 0 2 15 3 255 255 255 255
+IMAGEPICTURE "Control_435925285" "" "" 0 0 162 73 1 0 "小精灵新加tga\小精灵面板\宠物面板-1血槽(修改).tga"
+PROGRESS "Progress_Energy" "" "" 8 17 145 8 "Progress\进度条_背景1.bmp" "Progress\进度条_黄2.bmp" 0 0 0 0
+STILLIMAGEBUTTON "Btn_Zoom" "max" "" 6 34 18 18 0 0 0 0 4 15 255 255 255 255 "小精灵新加tga\ELFZOOMUP2.tga" "小精灵新加tga\ELFZOOMDOWN2.tga" 5 1

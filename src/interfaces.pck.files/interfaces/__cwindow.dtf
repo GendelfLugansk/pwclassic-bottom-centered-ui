@@ -1,0 +1,3 @@
+DIALOG "Win_CWindow2" 0 0 700 500 0 1 10 "Window\对话框_标准边框1.dds" "" "Window\对话框_标题.tga" 0 0 700 33 "Window\对话框_标准关闭.tga" 47 7 96 96 96 255 1
+WINDOWPICTURE "WPic" "" "" 6 32 669 441
+IMAGEPICTURE "Img_ZoomIn" "" "" 676 475 20 20 0 0 ""

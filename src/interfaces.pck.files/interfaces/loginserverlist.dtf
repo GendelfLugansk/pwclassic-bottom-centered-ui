@@ -1,0 +1,31 @@
+DIALOG "Win_LoginServerList" 0 0 340 525 0 1 10 "Window\对话框_透明色.bmp" "" "" 0 0 -1 -1 "" 0 0 96 96 96 150 1
+EDIT "Control_132863868" "" "" 0 99 340 430 "Button\按钮_文本1b.dds" 2 15 255 255 255 "TEXT" 1 0 20
+STILLIMAGEBUTTON "Btn_Choose" "confirm" "SFX\Interface\ClickB.wav" 103 493 60 28 0 0 0 0 3 10 255 203 74 255 "Button\按钮_文本1b.dds" "Button\按钮_文本2b.dds" 4 1
+STILLIMAGEBUTTON "Btn_Exit" "IDCANCEL" "SFX\Interface\ClickB.wav" 180 493 60 28 0 0 0 0 5 10 255 203 74 255 "Button\按钮_文本1b.dds" "Button\按钮_文本2b.dds" 6 1
+LIST "Lst_Server" "confirm" "SFX\Interface\ClickB.wav" 6 146 328 345 7 10 255 255 255 255 "Editbox\文本框_4e.dds" "Listbox\列表框_反显.dds" "Listbox\列表框_上移.tga" "Listbox\列表框_下移.tga" "Listbox\列表框_滚动槽1t.tga" "Listbox\列表框_拖动按钮1.bmp" 0 "119 79 67 196"
+LABEL "Txt_Server1" "" "" 145 103 107 21 8 16 9 255 203 74 255
+EDIT "aback1" "" "" 6 125 119 19 "Editbox\文本框_4.dds" 10 15 255 0 255 "TEXT" 1 0 256
+EDIT "aback2" "" "" 125 125 77 19 "Editbox\文本框_4.dds" 11 15 255 0 255 "TEXT" 1 0 256
+EDIT "aback3" "" "" 202 125 65 19 "Editbox\文本框_4.dds" 12 15 255 0 255 "TEXT" 1 0 256
+EDIT "aback4" "" "" 266 125 68 19 "Editbox\文本框_4.dds" 13 10 255 0 255 "TEXT" 1 0 256
+STILLIMAGEBUTTON "Btn_SortName1" "sortname" "" 11 128 111 14 0 0 0 0 14 10 255 203 74 255 "Window\对话框_透明色.bmp" "Window\对话框_透明色.bmp" 15 1
+STILLIMAGEBUTTON "Btn_SortSpeed1" "sortspeed" "" 128 128 69 14 0 0 0 0 16 10 255 203 74 255 "Window\对话框_透明色.bmp" "Window\对话框_透明色.bmp" 17 1
+STILLIMAGEBUTTON "Btn_SortStats1" "sortstats" "" 204 128 60 14 0 0 0 0 18 10 255 203 74 255 "Window\对话框_透明色.bmp" "Window\对话框_透明色.bmp" 19 1
+STILLIMAGEBUTTON "Btn_SortOther1" "sortother" "" 269 128 62 14 0 0 0 0 20 10 255 203 74 255 "Window\对话框_透明色.bmp" "Window\对话框_透明色.bmp" 21 1
+STILLIMAGEBUTTON "Btn_Group3" "group3" "" 0 75 85 25 0 0 0 0 22 10 255 255 255 255 "Button\按钮_文本1b.dds" "Button\按钮_文本2b.dds" 23 1
+STILLIMAGEBUTTON "Btn_Group1" "group1" "" 85 75 85 25 0 0 0 0 24 10 255 255 255 255 "Button\按钮_文本1b.dds" "Button\按钮_文本2b.dds" 25 1
+STILLIMAGEBUTTON "Btn_Group2" "group2" "" 170 75 85 25 0 0 0 0 26 10 255 255 255 255 "Button\按钮_文本1b.dds" "Button\按钮_文本2b.dds" 27 1
+STILLIMAGEBUTTON "Btn_Group4" "group4" "" 255 75 85 25 0 0 0 0 28 10 255 255 255 255 "Button\按钮_文本1b.dds" "Button\按钮_文本2b.dds" 29 1
+STILLIMAGEBUTTON "Btn_Group7" "group7" "" 0 50 85 25 0 0 0 0 30 10 255 255 255 255 "Button\按钮_文本1b.dds" "Button\按钮_文本2b.dds" 31 1
+STILLIMAGEBUTTON "Btn_Group5" "group5" "" 85 50 85 25 0 0 0 0 32 10 255 255 255 255 "Button\按钮_文本1b.dds" "Button\按钮_文本2b.dds" 33 1
+STILLIMAGEBUTTON "Btn_Group6" "group6" "" 170 50 85 25 0 0 0 0 34 10 255 255 255 255 "Button\按钮_文本1b.dds" "Button\按钮_文本2b.dds" 35 1
+STILLIMAGEBUTTON "Btn_Group8" "group8" "" 255 50 85 25 0 0 0 0 36 10 255 255 255 255 "Button\按钮_文本1b.dds" "Button\按钮_文本2b.dds" 37 1
+STILLIMAGEBUTTON "Btn_Group9" "group9" "" 85 25 85 25 0 0 0 0 38 10 255 255 255 255 "Button\按钮_文本1b.dds" "Button\按钮_文本2b.dds" 39 1
+STILLIMAGEBUTTON "Btn_Group10" "group10" "" 170 25 85 25 0 0 0 0 40 10 255 255 255 255 "Button\按钮_文本1b.dds" "Button\按钮_文本2b.dds" 41 1
+STILLIMAGEBUTTON "Btn_Group11" "group11" "" 0 25 85 25 0 0 0 0 42 10 255 255 255 255 "Button\按钮_文本1b.dds" "Button\按钮_文本2b.dds" 43 1
+STILLIMAGEBUTTON "Btn_Group12" "group12" "" 255 25 85 25 0 0 0 0 44 10 255 255 255 255 "Button\按钮_文本1b.dds" "Button\按钮_文本2b.dds" 45 1
+STILLIMAGEBUTTON "Btn_Group13" "group13" "" 85 0 85 25 0 0 0 0 46 10 255 255 255 255 "Button\按钮_文本1b.dds" "Button\按钮_文本2b.dds" 47 1
+STILLIMAGEBUTTON "Btn_Group14" "group14" "" 170 0 85 25 0 0 0 0 48 10 255 255 255 255 "Button\按钮_文本1b.dds" "Button\按钮_文本2b.dds" 49 1
+STILLIMAGEBUTTON "Btn_Group15" "group15" "" 0 0 85 25 0 0 0 0 50 10 255 255 255 255 "Button\按钮_文本1b.dds" "Button\按钮_文本2b.dds" 51 1
+STILLIMAGEBUTTON "Btn_Group16" "group16" "" 255 0 85 25 0 0 0 0 52 10 255 255 255 255 "Button\按钮_文本1b.dds" "Button\按钮_文本2b.dds" 53 1
+STILLIMAGEBUTTON "Btn_QuickEnter" "confirm" "SFX\Interface\ClickB.wav" -2000 -2000 100 28 0 0 0 0 54 10 255 203 74 255 "Button\按钮_文本1b.dds" "Button\按钮_文本2b.dds" 55 1

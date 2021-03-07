@@ -1,0 +1,8 @@
+DIALOG "Dlg_TerrainRes" 0 0 220 400 0 1 10 "Window\对话框_标准边框.dds" "" "" 0 0 250 27 "Window\对话框_标准关闭.tga" 27 6 96 96 96 255 1
+LABEL "title" "" "" 47 4 126 22 2 16 3 255 203 74 255
+STILLIMAGEBUTTON "Btn_TerrainEdit" "ChooseTerrRes" "" 6 30 68 25 0 0 0 0 4 10 255 255 255 255 "Button\按钮_文本1.dds" "Button\按钮_文本2.dds" 5 1
+STILLIMAGEBUTTON "Btn_OutdoorEdit" "ChooseOutdoorRes" "" 75 30 70 25 0 0 0 0 6 10 255 255 255 255 "Button\按钮_文本1.dds" "Button\按钮_文本2.dds" 7 1
+STILLIMAGEBUTTON "Btn_IndoorEdit" "ChooseIndoorRes" "" 146 30 68 25 0 0 0 0 8 10 255 255 255 255 "Button\按钮_文本1.dds" "Button\按钮_文本2.dds" 9 1
+STILLIMAGEBUTTON "Btn_Add" "AddTerrainRes" "" 43 365 50 25 0 0 0 0 10 10 255 255 255 255 "Button\按钮_文本1.dds" "Button\按钮_文本2.dds" 11 1
+STILLIMAGEBUTTON "Btn_Delete" "DelTerrainRes" "" 125 365 50 25 0 0 0 0 12 10 255 255 255 255 "Button\按钮_文本1.dds" "Button\按钮_文本2.dds" 13 1
+TREE "TreeView_TerrainRes" "TerrainRes" "" 10 58 200 301 14 15 255 255 255 255 "Editbox\文本框_4b.dds" "Listbox\列表框_反显.dds" "Listbox\列表框_上移.bmp" "Listbox\列表框_下移.bmp" "Listbox\列表框_滚动槽1.tga" "Listbox\列表框_拖动按钮1.bmp" "Extra\TreePlus.bmp" "Extra\TreeMinus.bmp" "Extra\TreeLeaf.bmp"

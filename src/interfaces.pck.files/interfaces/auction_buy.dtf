@@ -1,0 +1,20 @@
+DIALOG "Win_AuctionBuy" 0 0 450 360 0 1 12 "Window\对话框_标准边框1.dds" "" "Window\对话框_标题.tga" 0 0 450 33 "Window\对话框_标准关闭.tga" 30 6 96 96 96 255 1
+LABEL "Control_258992370" "" "" 180 11 0 0 2 12 3 255 255 255 255
+STILLIMAGEBUTTON "Control_35625394" "" "" 4 330 65 24 0 0 0 0 4 12 255 255 255 255 "Button\按钮_文本1.dds" "Button\按钮_文本1.dds" 5 1
+STILLIMAGEBUTTON "Control_240888896" "" "" 71 330 65 24 0 0 0 0 6 12 255 255 255 255 "Button\按钮_文本1.dds" "Button\按钮_文本2.dds" 7 1
+STILLIMAGEBUTTON "Control_86346400" "" "" 138 330 65 24 0 0 0 0 8 12 255 255 255 255 "Button\按钮_文本1.dds" "Button\按钮_文本2.dds" 9 1
+STILLIMAGEBUTTON "Control_212042600" "" "" 361 330 40 24 0 0 0 0 10 12 255 255 255 255 "Button\按钮_文本1.dds" "Button\按钮_文本2.dds" 11 1
+STILLIMAGEBUTTON "Control_215211906" "" "" 403 330 40 24 0 0 0 0 12 12 255 255 255 255 "Button\按钮_文本1.dds" "Button\按钮_文本2.dds" 13 1
+STILLIMAGEBUTTON "Control_451254238" "" "" 225 337 24 15 0 0 0 0 14 15 255 0 255 255 "Button\按钮_金钱1.tga" "Button\按钮_金钱1.tga" 15 1
+EDIT "Control_504913244" "" "" 249 333 107 18 "Editbox\文本框_4c.dds" 16 12 255 255 255 "TEXT" 1 0 256
+LABEL "Control_125136019" "" "" 179 31 0 0 17 12 18 255 255 255 255
+EDIT "Control_472068846" "" "" 270 27 55 18 "Editbox\文本框_4b.dds" 19 15 255 0 255 "TEXT" 0 0 256
+EDIT "Control_340335463" "" "" 325 28 120 18 "Editbox\文本框_4b.dds" 20 15 255 0 255 "TEXT" 1 0 256
+LABEL "Control_296641120" "" "" 360 31 0 0 21 12 22 255 255 255 255
+LIST "Control_148943895" "" "" 141 46 302 283 23 12 255 255 255 255 "Editbox\文本框_4.dds" "Listbox\列表框_反显.dds" "Listbox\列表框_上移.bmp" "Listbox\列表框_下移.bmp" "Listbox\列表框_滚动槽1.tga" "Listbox\列表框_拖动按钮1.bmp" 0 "0"
+EDIT "Control_55565758" "" "" 3 32 134 297 "Editbox\文本框_4.dds" 24 15 255 0 255 "TEXT" 1 0 256
+LABEL "Control_525012894" "" "" 7 33 0 0 25 12 26 255 255 255 255
+EDIT "Control_201913860" "" "" 5 45 130 257 "Editbox\文本框_4.dds" 27 12 255 255 255 "TEXT" 1 0 256
+STILLIMAGEBUTTON "Control_320568664" "" "" 93 303 40 24 0 0 0 0 28 12 255 255 255 255 "Button\按钮_文本1.dds" "Button\按钮_文本2.dds" 29 1
+LABEL "Control_44654506" "" "" 274 31 0 0 30 12 31 255 255 255 255
+EDIT "Control_295038480" "" "" 140 29 130 18 "Editbox\文本框_4b.dds" 32 15 255 0 255 "TEXT" 1 0 256

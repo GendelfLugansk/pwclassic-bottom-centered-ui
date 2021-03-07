@@ -1,0 +1,14 @@
+DIALOG "Dlg_OutdoorRes" 0 0 220 400 0 1 10 "Window\对话框_标准边框.dds" "" "" 0 0 250 27 "Window\对话框_标准关闭.tga" 27 6 96 96 96 255 1
+LABEL "title" "" "" 47 4 126 22 2 16 3 255 203 74 255
+TREE "TreeView_OutdoorRes" "OutdoorRes" "" 10 78 200 281 4 15 255 255 255 255 "Editbox\文本框_4b.dds" "Listbox\列表框_反显.dds" "Listbox\列表框_上移.bmp" "Listbox\列表框_下移.bmp" "Listbox\列表框_滚动槽1.tga" "Listbox\列表框_拖动按钮1.bmp" "Extra\TreePlus.bmp" "Extra\TreeMinus.bmp" "Extra\TreeLeaf.bmp"
+STILLIMAGEBUTTON "Btn_TerrainEdit" "ChooseTerrRes" "" 6 30 68 25 0 0 0 0 5 10 255 255 255 255 "Button\按钮_文本1.dds" "Button\按钮_文本2.dds" 6 1
+STILLIMAGEBUTTON "Btn_OutdoorEdit" "ChooseOutdoorRes" "" 75 30 70 25 0 0 0 0 7 10 255 255 255 255 "Button\按钮_文本1.dds" "Button\按钮_文本2.dds" 8 1
+STILLIMAGEBUTTON "Btn_IndoorEdit" "ChooseIndoorRes" "" 146 30 68 25 0 0 0 0 9 10 255 255 255 255 "Button\按钮_文本1.dds" "Button\按钮_文本2.dds" 10 1
+STILLIMAGEBUTTON "Btn_Add" "AddOutdoorRes" "" 43 365 50 25 0 0 0 0 11 10 255 255 255 255 "Button\按钮_文本1.dds" "Button\按钮_文本2.dds" 12 1
+STILLIMAGEBUTTON "Btn_Delete" "DelOutdoorRes" "" 125 365 50 25 0 0 0 0 13 10 255 255 255 255 "Button\按钮_文本1.dds" "Button\按钮_文本2.dds" 14 1
+EDIT "back1" "" "" 12 59 59 20 "Editbox\文本框_4.dds" 15 15 255 255 255 "TEXT" 1 0 20
+EDIT "back2" "" "" 70 59 59 20 "Editbox\文本框_4.dds" 16 15 255 255 255 "TEXT" 1 0 20
+EDIT "back3" "" "" 128 59 83 20 "Editbox\文本框_4.dds" 17 15 255 255 255 "TEXT" 1 0 20
+STILLIMAGEBUTTON "Btn_SortAsName" "SortAsName" "" 15 61 52 14 0 0 0 0 18 10 255 203 74 255 "Window\对话框_透明色.bmp" "Window\对话框_透明色.bmp" 19 1
+STILLIMAGEBUTTON "Btn_SortAsClass" "SortAsClass" "" 74 61 52 14 0 0 0 0 20 10 255 203 74 255 "Window\对话框_透明色.bmp" "Window\对话框_透明色.bmp" 21 1
+STILLIMAGEBUTTON "Btn_SortAsHost" "SortAsHost" "" 132 61 74 14 0 0 0 0 22 10 255 203 74 255 "Window\对话框_透明色.bmp" "Window\对话框_透明色.bmp" 23 1

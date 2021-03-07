@@ -1,0 +1,40 @@
+DIALOG "Win_ELFRetrain" 0 0 428 484 0 1 10 "Window\对话框_标准边框1.dds" "" "" 0 0 214 27 "Window\对话框_标准关闭.tga" 26 6 96 96 96 255 1
+IMAGEPICTURE "Img_ELF" "" "" 12 59 32 32 1 0 "Window\图标_物品栏.dds"
+LABEL "TITEL" "" "" 156 5 0 0 2 16 3 255 203 74 255
+LABEL "Control_30062900" "" "" 10 39 0 0 4 10 5 255 203 74 255
+IMAGEPICTURE "Control_11396040" "" "" 23 32 387 3 1 0 "Window\分隔线.tga"
+STILLIMAGEBUTTON "Btn_Confirm" "confirm" "SFX\Interface\ClickB.wav" 273 400 48 24 0 0 0 0 6 10 255 255 255 255 "Button\按钮_文本1.dds" "Button\按钮_文本2.dds" 7 1
+STILLIMAGEBUTTON "Btn_Cancel" "IDCANCEL" "SFX\Interface\ClickB.wav" 344 400 48 24 0 0 0 0 8 10 255 255 255 255 "Button\按钮_文本1.dds" "Button\按钮_文本2.dds" 9 1
+LABEL "Control_292553758" "" "" 10 97 223 17 10 10 11 255 203 74 255
+LABEL "asdfasdf" "" "" 275 214 127 38 12 10 13 255 203 74 255
+LABEL "Txt_ELFName" "" "" 59 74 91 16 14 10 15 255 255 255 255
+LABEL "Txt_ELFLevel" "" "" 92 58 26 14 16 10 17 255 255 255 255
+LABEL "Control_176364900" "" "" 58 57 30 15 18 10 19 255 203 74 255
+IMAGEPICTURE "Img_Skill1" "petskill" "" 12 119 32 32 1 0 "Window\图标_物品栏.dds"
+LABEL "Txt_Skill1" "" "" 53 135 50 15 20 10 21 255 255 255 255
+IMAGEPICTURE "Img_Skill2" "petskill2" "" 115 119 32 32 1 0 "Window\图标_物品栏.dds"
+LABEL "Txt_Skill2" "" "" 165 134 50 15 22 10 23 255 255 255 255
+IMAGEPICTURE "Img_Skill3" "petskill3" "" 12 160 32 32 1 0 "Window\图标_物品栏.dds"
+LABEL "Txt_Skill3" "" "" 53 176 50 15 24 10 25 255 255 255 255
+IMAGEPICTURE "Img_Skill4" "petskill4" "" 115 162 32 32 1 0 "Window\图标_物品栏.dds"
+LABEL "Txt_Skill4" "" "" 165 176 50 15 26 10 27 255 255 255 255
+IMAGEPICTURE "Control_783680232" "" "" 12 306 240 3 1 0 "Window\分隔线.tga"
+LABEL "Control_54899208" "" "" 259 254 55 15 28 10 29 255 203 74 255
+LABEL "Txt_no" "" "" 314 253 25 15 30 10 31 255 255 255 255
+LABEL "Control_72170280" "" "" 341 254 80 14 32 10 33 255 203 74 255
+IMAGEPICTURE "PIC_ELF" "" "" 244 67 162 142 0 0 ""
+IMAGEPICTURE "Img_Skill5" "" "" 12 204 32 32 1 0 "Window\图标_物品栏.dds"
+IMAGEPICTURE "Img_Skill6" "" "" 115 206 32 32 1 0 "Window\图标_物品栏.dds"
+IMAGEPICTURE "Img_Skill7" "" "" 11 251 32 32 1 0 "Window\图标_物品栏.dds"
+IMAGEPICTURE "Img_Skill8" "" "" 114 251 32 32 1 0 "Window\图标_物品栏.dds"
+LABEL "Control_219614415" "" "" 21 417 211 50 34 15 35 255 0 0 255
+LABEL "Txt_Skill5" "" "" 52 220 53 19 36 15 37 255 255 255 255
+LABEL "Txt_Skill6" "" "" 165 219 53 17 38 15 39 255 255 255 255
+LABEL "Txt_Skill7" "" "" 52 265 52 19 40 15 41 255 255 255 255
+LABEL "Txt_Skill8" "" "" 165 264 53 17 42 15 43 255 255 255 255
+LABEL "Txt_Skill_help" "" "" 26 315 216 86 44 15 45 255 255 255 255
+LABEL "Control_50094460" "" "" 261 290 92 39 46 15 47 255 255 255 255
+EDIT "Txt_Number" "" "" 305 360 46 22 "/Editbox/文本框_4.dds" 48 15 255 255 255 "TEXT" 1 0 20
+LABEL "Txt_Skill_name" "" "" 265 335 67 21 49 15 50 255 255 255 255
+LABEL "Control_274230194" "" "" 272 361 37 21 51 15 52 255 128 0 255
+LABEL "Control_73332505" "" "" 351 361 21 19 53 15 54 255 128 0 255

@@ -1,0 +1,25 @@
+MOXTVersion: 21
+SkinModelPath: configs\sneg\ •µÆ—©»À.SMD
+OrgColor: ffffffff
+SrcBlend: 5
+DestBlend: 6
+OuterNum: 8
+Float: 1.000000
+Float: 1.000000
+Float: 1.000000
+Float: 1.000000
+Float: 1.000000
+Float: 1.000000
+Float: 1.000000
+Float: 1.000000
+BoneNum: 1
+BoneIndex: 0
+BoneSclType: 1
+BoneScale: 4.280000, 4.280000, 4.280000
+CoGfxNum: 1
+ComActCount: 22
+EventType: 100
+StartTime: 0
+TimeSpan: -1
+Once: 0
+ChildCount: 0
