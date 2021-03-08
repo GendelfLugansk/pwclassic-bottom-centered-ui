@@ -1,3 +1,5 @@
-DIALOG "Win_Prgs" 0 0 131 18 0 1 10 "Window\对话框_透明色.bmp" "" "" 0 0 -1 -1 "" 0 0 96 96 96 255 1
-PROGRESS "Prgs" "" "" 0 0 131 18 "Window\对话框_标准边框.dds" "Progress\进度条_天2.bmp" 5 5 5 5
-LABEL "Txt_info" "" "" 46 3 0 0 2 8 3 255 255 255 255
+#Прогресс полета (обычного)
+DIALOG "Win_Prgs" 0 0 124 24 0 1 10 "Window\对话框_透明色.bmp" "" "" 0 0 -1 -1 "" 0 0 96 96 96 0 1
+PROGRESS "Prgs" "" "" 4 0 112 24 "4kv2\progress\fly_battery_bg.tga" "4kv2\progress\fly_battery_left.tga" 0 0 0 0
+IMAGEPICTURE "Cover" "" "" 0 0 124 24 1 0 "4kv2\progress\fly_battery_cover.tga"
+LABEL "Txt_info" "" "" 36 3 0 0 2 12 3 255 203 74 255

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/src/interfaces.pck.files/interfaces" charset="GB2312" />
+    <file url="file://$PROJECT_DIR$/src/interfaces.pck.files/interfaces/hpmpxp.dtf" charset="GB2312" />
+    <file url="file://$PROJECT_DIR$/src/interfaces.pck.files/interfaces/hpmpxp.htf" charset="GB2312" />
+    <file url="file://$PROJECT_DIR$/src/interfaces.pck.files/interfaces/hpmpxp.stf" charset="GB2312" />
+    <file url="file://$PROJECT_DIR$/src/interfaces.pck.files/interfaces/progress_hp.dtf" charset="GB2312" />
+  </component>
+</project>

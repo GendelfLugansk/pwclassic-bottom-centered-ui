@@ -45,19 +45,19 @@ Sign4.dtf		0	0	0
 Sign5.dtf		0	0	0
 
 HideHP.dtf		0	0	1
-Hpmpxp.dtf		0	0	1
+Hpmpxp.dtf		628	-205	1
 HpOther.dtf		-1	0	0
 HpOtherB.dtf		-1	0	0
 HpmpOther.dtf		-1	0	0
 HpmpOtherB.dtf		-1	0	0
-Progress.dtf		75	100	0
-Progress1.dtf		75	100	0
-Progress2.dtf		-1	-90	0
-Progress_HP.dtf	80	120	0
-Progress_MP.dtf	80	145	0
-MagicProgress1.dtf	-1	-180	0
-MagicProgress2.dtf	-1	-180	0
-MagicProgress3.dtf	-1	-180	0
+Progress.dtf		1231 -273	0
+Progress1.dtf		1231 -273	0
+Progress2.dtf		-1	-334	0
+Progress_HP.dtf	    1231 -247	0
+Progress_MP.dtf	    1231 -221 0
+MagicProgress1.dtf	-1	-334	0
+MagicProgress2.dtf	-1	-334	0
+MagicProgress3.dtf	-1	-334	0
 Popmsg.dtf		-1	10	0
 Broken.dtf		0	-1	1
 AccountTime.dtf	-1	10	0
@@ -215,8 +215,8 @@ Quickbar8Vb_3.dtf	-2	-1	0
 
 Quickbar8Ha.dtf		-183	-2	1
 Quickbar8Hb_1.dtf	-183	-2	0
-Quickbar8Hb_2.dtf	-183	-2	0
-Quickbar8Hb_3.dtf	-183	-2	0
+Quickbar8Hb_2.dtf	-183	-2	1
+Quickbar8Hb_3.dtf	-183	-2	1
 
 Quickbar9Va.dtf		-2	-1	1
 Quickbar9Vb_1.dtf	-2	-1	0
@@ -225,12 +225,12 @@ Quickbar9Vb_3.dtf	-2	-1	0
 Quickbar9Vb_4.dtf	-2	-1	0
 Quickbar9Vb_5.dtf	-2	-1	0
 
-Quickbar9Ha.dtf		-1	-2	0
+Quickbar9Ha.dtf		-1	-2	1
 Quickbar9Hb_1.dtf	-1	-2	0
-Quickbar9Hb_2.dtf	-1	-2	0
-Quickbar9Hb_3.dtf	-1	-2	0
-Quickbar9Hb_4.dtf	-1	-2	0
-Quickbar9Hb_5.dtf	-1	-2	0
+Quickbar9Hb_2.dtf	-1	-2	1
+Quickbar9Hb_3.dtf	-1	-2	1
+Quickbar9Hb_4.dtf	-1	-2	1
+Quickbar9Hb_5.dtf	-1	-2	1
 
 QuickbarPetV.dtf	-50	-1	0
 QuickbarPetH.dtf	-183	-50	0

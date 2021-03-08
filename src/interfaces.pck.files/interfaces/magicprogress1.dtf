@@ -1,4 +1,5 @@
-DIALOG "MagicProgress1" 0 0 252 33 0 1 10 "" "" "" 0 0 -1 -1 "" 0 0 96 96 96 0 1
-PROGRESS "Prgs" "" "" 18 9 216 16 "Progress\Í¨ÓÃ.tga" "Progress\Ò÷³ª_2.tga" 0 1 0 1
-IMAGEPICTURE "Cover" "" "" 0 0 256 33 1 0 "Progress\Ò÷³ª_3.tga"
-LABEL "Txt" "" "" 126 7 0 0 2 12 3 255 203 74 255
+#§±§â§à§Ô§â§Ö§ã§ã §Ü§Ñ§ã§ä§Ñ §ã§Ü§Ú§Ý§Ñ (§Õ§Ý§ñ §à§Ò§í§é§ß§í§ç §ã§Ü§Ú§Ý§à§Ó)
+DIALOG "MagicProgress1" 0 0 274 24 0 1 10 "" "" "" 0 0 -1 -1 "" 0 0 96 96 96 0 1
+PROGRESS "Prgs" "" "" 15 0 246 24 "4kv2\progress\magic_progress_bg.tga" "4kv2\progress\magic_progress_left.tga" 0 0 0 0
+IMAGEPICTURE "Cover" "" "" 0 0 274 24 1 0 "4kv2\progress\magic_progress_cover.tga"
+LABEL "Txt" "" "" 138 1 0 0 2 12 3 255 203 74 255
