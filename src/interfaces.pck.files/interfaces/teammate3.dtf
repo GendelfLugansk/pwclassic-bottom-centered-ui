@@ -1,22 +1,23 @@
-DIALOG "Win_TeamMate3" 0 0 144 30 0 1 10 "Window\对话框_快捷板.tga" "" "" 0 0 -1 -1 "" 0 0 96 96 96 255 1
-IMAGEPICTURE "CombatMask" "" "" 0 0 256 32 1 0 "Window\Mask2.dds"
-PROGRESS "Prgs_HP" "" "" 21 18 120 4 "Window\对话框_透明色.bmp" "Progress\进度条_红2.bmp" 0 0 0 0
-PROGRESS "Prgs_MP" "" "" 21 22 120 4 "Window\对话框_透明色.bmp" "Progress\进度条_兰2.bmp" 0 0 0 0
-IMAGEPICTURE "Image_Prof" "" "" 3 2 14 14 16 0 "Ingame\Profession.tga"
-LABEL "Txt_LV" "" "" 2 16 20 12 2 8 3 255 203 74 255
-LABEL "Txt_CharName" "" "" 16 2 126 14 4 10 5 255 255 255 255
-IMAGEPICTURE "St_1" "" "" 145 0 16 16 1 0 "Window\对话框_透明色.bmp"
-IMAGEPICTURE "St_2" "" "" 145 17 16 16 1 0 "Window\对话框_透明色.bmp"
-IMAGEPICTURE "St_3" "" "" 162 0 16 16 1 0 "Window\对话框_透明色.bmp"
-IMAGEPICTURE "Img_Captivation" "" "" 125 2 15 15 3 0 "Extra\防沉迷15.tga"
-IMAGEPICTURE "St_4" "" "" 162 17 16 16 1 0 "Window\对话框_透明色.bmp"
-IMAGEPICTURE "St_5" "" "" 179 0 16 16 1 0 "Window\对话框_透明色.bmp"
-IMAGEPICTURE "St_6" "" "" 179 17 16 16 1 0 "Window\对话框_透明色.bmp"
-IMAGEPICTURE "St_7" "" "" 196 0 16 16 1 0 "Window\对话框_透明色.bmp"
-IMAGEPICTURE "St_8" "" "" 196 17 16 16 1 0 "Window\对话框_透明色.bmp"
-IMAGEPICTURE "St_9" "" "" 213 0 16 16 1 0 "Window\对话框_透明色.bmp"
-IMAGEPICTURE "St_10" "" "" 213 17 16 16 1 0 "Window\对话框_透明色.bmp"
-IMAGEPICTURE "St_11" "" "" 230 0 16 16 1 0 "Window\对话框_透明色.bmp"
-IMAGEPICTURE "St_12" "" "" 230 17 16 16 1 0 "Window\对话框_透明色.bmp"
-IMAGEPICTURE "St_13" "" "" 247 0 16 16 1 0 "Window\对话框_透明色.bmp"
-IMAGEPICTURE "St_14" "" "" 247 17 16 16 1 0 "Window\对话框_透明色.bmp"
+#Пати-мембер
+DIALOG "Win_TeamMate3" 0 0 114 30 0 1 10 "Window\对话框_透明色3.tga" "" "" 0 0 -1 -1 "" 0 0 96 96 96 200 1
+PROGRESS "Prgs_HP" "" "" 0 0 114 21 "4kv2\progress\teammate3_hpbarbg.tga" "4kv2\progress\teammate_hpbar.tga" 0 0 0 0
+PROGRESS "Prgs_MP" "" "" 0 21 114 9 "4kv2\progress\teammate3_mpbarbg.tga" "4kv2\progress\teammate_mpbar.tga" 0 0 0 0
+IMAGEPICTURE "Image_Prof" "" "" 3 3 14 14 16 0 "Ingame\Profession.tga"
+IMAGEPICTURE "CombatMask" "" "" 0 0 114 21 1 0 "4kv2\teammate_mask.tga"
+LABEL "Txt_LV" "" "" 1 18 20 12 2 8 3 255 203 74 255
+LABEL "Txt_CharName" "" "" 19 1 106 20 4 11 5 255 255 255 255
+IMAGEPICTURE "St_1" "" "" 115 0 14 14 1 0 "Window\对话框_透明色.bmp"
+IMAGEPICTURE "St_2" "" "" 115 15 14 14 1 0 "Window\对话框_透明色.bmp"
+IMAGEPICTURE "St_3" "" "" 130 0 14 14 1 0 "Window\对话框_透明色.bmp"
+IMAGEPICTURE "Img_Captivation" "" "" 105 2 15 15 3 0 "Extra\防沉迷15.tga"
+IMAGEPICTURE "St_4" "" "" 130 15 14 14 1 0 "Window\对话框_透明色.bmp"
+IMAGEPICTURE "St_5" "" "" 145 0 14 14 1 0 "Window\对话框_透明色.bmp"
+IMAGEPICTURE "St_6" "" "" 145 15 14 14 1 0 "Window\对话框_透明色.bmp"
+IMAGEPICTURE "St_7" "" "" 160 0 14 14 1 0 "Window\对话框_透明色.bmp"
+IMAGEPICTURE "St_8" "" "" 160 15 14 14 1 0 "Window\对话框_透明色.bmp"
+IMAGEPICTURE "St_9" "" "" 175 0 14 14 1 0 "Window\对话框_透明色.bmp"
+IMAGEPICTURE "St_10" "" "" 175 15 14 14 1 0 "Window\对话框_透明色.bmp"
+IMAGEPICTURE "St_11" "" "" 190 0 14 14 1 0 "Window\对话框_透明色.bmp"
+IMAGEPICTURE "St_12" "" "" 190 15 14 14 1 0 "Window\对话框_透明色.bmp"
+IMAGEPICTURE "St_13" "" "" 205 0 14 14 1 0 "Window\对话框_透明色.bmp"
+IMAGEPICTURE "St_14" "" "" 205 15 14 14 1 0 "Window\对话框_透明色.bmp"
