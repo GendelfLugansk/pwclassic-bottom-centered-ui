@@ -1,23 +1,43 @@
-DIALOG "Win_HpmpOther" 0 0 227 84 0 1 10 "" "" "" 0 0 -1 -1 "" 0 0 96 96 96 0 1
-IMAGEPICTURE "ProBG" "" "" 0 0 22 22 1 0 "Button\背景.tga"
-IMAGEPICTURE "Size" "" "" 14 14 64 64 1 0 "Window\对话框_透明色.bmp"
-IMAGEPICTURE "Back" "" "" 0 0 229 95 1 0 "Window\对话框_标准边框7e.tga"
-PROGRESS "Prgs_HP" "" "" 97 23 123 8 "Window\对话框_透明色.bmp" "Progress\进度条_红2.bmp" 0 0 0 0
-LABEL "Txt_Name" "" "" 157 33 0 0 2 10 3 255 255 255 255
-STILLIMAGEBUTTON "Btn_1" "change" "SFX\Interface\ClickB.wav" 85 8 67 12 0 0 0 0 4 15 255 255 255 255 "Window\对话框_透明色.bmp" "Window\对话框_透明色.bmp" 5 1
-IMAGEPICTURE "Control_28159456" "" "" 0 0 24 24 1 0 "人鱼传说新界面\职业显示圈底.tga"
-IMAGEPICTURE "Image_Prof" "" "" 4 4 14 14 16 0 "Ingame\Profession.tga"
-IMAGEPICTURE "St_1" "" "" 93 60 16 16 1 0 "Window\对话框_透明色.bmp"
-IMAGEPICTURE "St_2" "" "" 112 60 16 16 1 0 "Window\对话框_透明色.bmp"
-IMAGEPICTURE "St_3" "" "" 131 60 16 16 1 0 "Window\对话框_透明色.bmp"
-IMAGEPICTURE "St_4" "" "" 150 60 16 16 1 0 "Window\对话框_透明色.bmp"
-IMAGEPICTURE "St_5" "" "" 169 60 16 16 1 0 "Window\对话框_透明色.bmp"
-IMAGEPICTURE "St_6" "" "" 188 60 16 16 1 0 "Window\对话框_透明色.bmp"
-IMAGEPICTURE "St_7" "" "" 207 60 16 16 1 0 "Window\对话框_透明色.bmp"
-IMAGEPICTURE "St_8" "" "" 93 73 16 16 1 0 "Window\对话框_透明色.bmp"
-IMAGEPICTURE "St_9" "" "" 112 73 16 16 1 0 "Window\对话框_透明色.bmp"
-IMAGEPICTURE "St_10" "" "" 131 73 16 16 1 0 "Window\对话框_透明色.bmp"
-IMAGEPICTURE "St_11" "" "" 150 73 16 16 1 0 "Window\对话框_透明色.bmp"
-IMAGEPICTURE "St_12" "" "" 169 73 16 16 1 0 "Window\对话框_透明色.bmp"
-IMAGEPICTURE "St_13" "" "" 188 73 16 16 1 0 "Window\对话框_透明色.bmp"
-IMAGEPICTURE "St_14" "" "" 207 73 16 16 1 0 "Window\对话框_透明色.bmp"
+#HP of player target if faction display is off
+DIALOG "Win_HpmpOther" 0 0 486 68 0 1 10 "" "" "" 0 0 -1 -1 "" 0 0 96 96 96 0 1
+
+#Background
+IMAGEPICTURE "Back" "" "" 0 0 68 68 1 0 "4kv2\hpmpxp_back1.tga"
+
+#Switch faction display
+STILLIMAGEBUTTON "Btn_1" "change" "SFX\Interface\ClickB.wav" 56 56 12 12 0 0 0 0 4 15 255 255 255 255 "4kv2\window\blue_triangle_bottom_right.tga" "4kv2\window\blue_triangle_bottom_right.tga" 5 1
+
+#Character's face
+IMAGEPICTURE "Size" "" "" 11 11 47 47 1 0 "Window\对话框_透明色.bmp"
+
+#HP
+PROGRESS "Prgs_HP" "" "" 76 8 408 24 "4kv2\progress\hpbarbg_other.tga" "4kv2\progress\hpbar.tga" 0 0 0 0
+IMAGEPICTURE "" "" "" 73 8 3 24 1 0 "4kv2\progress\hpbar_l.tga"
+IMAGEPICTURE "" "" "" 484 8 3 24 1 0 "4kv2\progress\hpbar_r.tga"
+STILLIMAGEBUTTON "Btn_Pet" "tracepet" "" 466 34 18 18 0 0 0 0 8 15 255 255 255 255 "宠物追踪21.tga" "宠物追踪21.tga" 9 1
+
+#Profession, name
+IMAGEPICTURE "" "" "" 73 34 253 20 1 0 "4kv2\window\hpmp_other_name.tga"
+IMAGEPICTURE "ProBg" "" "" 76 37 15 15 1 0 "Button\背景.tga"
+IMAGEPICTURE "Image_Prof" "" "" 76 37 15 15 16 0 "Ingame\Profession.tga"
+LABEL "Txt_Name" "" "" 93 37 214 0 2 10 3 255 255 255 255
+
+#Statuses
+
+IMAGEPICTURE "St_1" "" "" 328 34 16 16 1 0 "Window\对话框_透明色.bmp"
+IMAGEPICTURE "St_2" "" "" 345 34 16 16 1 0 "Window\对话框_透明色.bmp"
+IMAGEPICTURE "St_3" "" "" 362 34 16 16 1 0 "Window\对话框_透明色.bmp"
+IMAGEPICTURE "St_4" "" "" 379 34 16 16 1 0 "Window\对话框_透明色.bmp"
+IMAGEPICTURE "St_5" "" "" 396 34 16 16 1 0 "Window\对话框_透明色.bmp"
+IMAGEPICTURE "St_6" "" "" 413 34 16 16 1 0 "Window\对话框_透明色.bmp"
+IMAGEPICTURE "St_7" "" "" 430 34 16 16 1 0 "Window\对话框_透明色.bmp"
+IMAGEPICTURE "St_8" "" "" 328 51 16 16 1 0 "Window\对话框_透明色.bmp"
+IMAGEPICTURE "St_9" "" "" 345 51 16 16 1 0 "Window\对话框_透明色.bmp"
+IMAGEPICTURE "St_10" "" "" 362 51 16 16 1 0 "Window\对话框_透明色.bmp"
+IMAGEPICTURE "St_11" "" "" 379 51 16 16 1 0 "Window\对话框_透明色.bmp"
+IMAGEPICTURE "St_12" "" "" 396 51 16 16 1 0 "Window\对话框_透明色.bmp"
+IMAGEPICTURE "St_13" "" "" 413 51 16 16 1 0 "Window\对话框_透明色.bmp"
+IMAGEPICTURE "St_14" "" "" 430 51 16 16 1 0 "Window\对话框_透明色.bmp"
+
+#Trash
+IMAGEPICTURE "Control_28159456" "" "" -9000 0 48 48 1 0 "人鱼传说新界面\职业显示圈底.tga"
