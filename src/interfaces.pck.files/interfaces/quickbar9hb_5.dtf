@@ -1,4 +1,4 @@
-DIALOG "Win_Quickbar9Hb_5" 0 0 332 42 0 1 10 "Window\对话框_快捷板.tga" "" "" 0 0 -1 -1 "" 0 0 96 96 96 55 1
+DIALOG "Win_Quickbar9Hb_5" 0 0 332 42 0 1 10 "4kv2\window\quickbar.dds" "" "" 0 0 -1 -1 "" 0 0 96 96 96 55 1
 IMAGEPICTURE "Item_1" "" "" 16 5 32 32 1 0 "Window\图标_物品栏j.dds"
 IMAGEPICTURE "Item_2" "" "" 49 5 32 32 1 0 "Window\图标_物品栏j.dds"
 IMAGEPICTURE "Item_3" "" "" 82 5 32 32 1 0 "Window\图标_物品栏j.dds"
